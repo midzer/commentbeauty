@@ -1,11 +1,23 @@
 ---
 layout: default
 lang: en
-description: Rediscover the beauty of comments with ten points of reference
+description: Reignite the fabulousness of commenting on the Internet with ten points of reference
 ---
-# CommentBeauty - reenable awesome dealing with each other on the Internet
+# CommentBeauty
 
-Grow language flowers and become a comment pro! Respectful exchange for a friendly, healthy and harmonious coexistence in the "social" media.
+**tl;dr**: ~~Everything~~ The tone of voice online used to be better. Social media top dogs now determine the narrative. Plurality of opinion is suffering massively and society is hardening into two camps. Some people no longer dare to express themselves on specific topics. Ten points of orientation are intended to reactivate the fabulousness of commenting.
+
+> "He who hates evil creates more of it." via [Kati Körner](https://katikoerner.de/toxische-menschen/)
+
+## Intro
+
+When the internet was still mainly used on laptops or PCs, [netiquette](https://en.wikipedia.org/wiki/Etiquette_in_technology) felt omnipresent. Even in serious disagreements - for example before elections - the situation practically never escalated and everyone was deeply relaxed.
+
+With supposedly better technology and hopeful promises (“Facebook connects”), smaller communities began to die. To “optimize the user experience”, algorithms now filled the timelines for maximum screen time and thus advertising profit for the operators. In addition, powerful mobile devices made it possible to surf virtually anywhere and at any time. Active participation declined continuously, while mindless consumption increased.
+
+Today, a few high-reach accounts dominate the daily debate. Differentiated nuances of opinion often remain the exception in the comment columns. As in the dystopian novel [Kallocain](https://en.wikipedia.org/wiki/Kallocain), the earth seems to be divided into two idiological superpowers, with the large commercial portals acting as an arena for mud-slinging.
+
+Most people are not in the mood for this situation. Many seek [escape into the private sphere](https://en.wikipedia.org/wiki/Biedermeier), others form groups in small, closed communities. However, this paralysis of the sophisticated exchange of knowledge and opinions via the Internet prevents the future ideal of a free society.
 
 ## Orientation points
 
@@ -22,18 +34,16 @@ Grow language flowers and become a comment pro! Respectful exchange for a friend
 
 ## Digital playground
 
-In principle, it is possible to make public contributions on all low-barrier platforms. Open systems that can be indexed by search engines, such as forums, are preferable. They increase the visibility of your own contributions and help others to find them. A win-win situation for everyone involved.
+In principle, it is possible to contribute publicly on all platforms. Open systems that can be indexed by search engines, such as forums, are to be preferred. They allow maximum visibility of topic-related content, which can then be found successfully. A win-win situation for everyone involved.
 
-By registering under a pseudonym, the desired anonymity is maintained for the time being. However, it does not protect you in the case of posts that are relevant under criminal law. Your IP address is stored by your internet provider. So think before you post something on the Internet.
+By registering with a pseudonym, the desired anonymity is maintained. However, it does not protect you in the event of criminally relevant statements. The current IP address is stored by your Internet provider. So think before you post questionable things on the Internet.
 
-## Contribute
+## Contributing
 
-A community-driven WWW thrives on interaction. The source text of this page is freely available and is happy to be edited. Possible topics are:
+A community-driven WWW thrives on interaction. As with many other ethical projects, this site is freely available in accessible source code and is happy to be edited. Possible topics are:
 
 * Translation
 * Correction
 * Extension
 
 Write me change requests via [Mail](https://midzer.de/contact) or change them directly on [GitHub](https://github.com/midzer/commentbeauty/edit/master/{{ page.path }}).
-
-> "He who hates evil creates more of it." via [Kati Körner](https://katikoerner.de/toxische-menschen/)
