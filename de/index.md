@@ -3,7 +3,7 @@ layout: default
 lang: de
 description: Mit zehn Orientierungspunkten die Schönheit von Kommentaren neu entdecken
 ---
-# CommentBeauty
+# CommentBeauty - großartigen Umgang miteinander im Internet wieder ermöglichen
 
 Sprachblumen wachsen lassen und dadurch Kommentarprofi werden! Respektvoller Austausch für ein freundliches, gesundes und harmonisches Miteinander in den "sozialen" Medien.
 

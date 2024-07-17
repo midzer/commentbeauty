@@ -3,7 +3,7 @@ layout: default
 lang: en
 description: Rediscover the beauty of comments with ten points of reference
 ---
-# CommentBeauty
+# CommentBeauty - reenable awesome dealing with each other on the Internet
 
 Grow language flowers and become a comment pro! Respectful exchange for a friendly, healthy and harmonious coexistence in the "social" media.
 
@@ -14,7 +14,7 @@ Grow language flowers and become a comment pro! Respectful exchange for a friend
 * Remember the common goal in life: "Peace, joy, cake"
 * Avoid pigeonholing
 * Do not give unnecessary attention to /pol issues
-* “Friend or foe?” Discard categorization
+* Discard "Friend or foe?" categorization
 * Quality instead of quantity
 * Do not overemphasize arguments of last resort
 * Don't take yourself too seriously
