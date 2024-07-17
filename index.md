@@ -34,6 +34,6 @@ A community-driven WWW thrives on interaction. The source text of this page is f
 * Correction
 * Extension
 
-Write me change requests via [Mail](https://midzer.de/contact) or change them directly on [GitHub](https://github.com/midzer/comment-beauty/edit/master/{{ page.path }}).
+Write me change requests via [Mail](https://midzer.de/contact) or change them directly on [GitHub](https://github.com/midzer/commentbeauty/edit/master/{{ page.path }}).
 
 > "He who hates evil creates more of it." via [Kati Körner](https://katikoerner.de/toxische-menschen/)

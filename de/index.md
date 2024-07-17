@@ -34,6 +34,6 @@ Ein von der Gemeinschaft betriebenes WWW lebt von Interaktion. Der Quelltext die
 * Korrektur
 * Erweiterung
 
-Schreibe mir Änderungswünsche per [Mail](https://midzer.de/contact) oder ändere sie direkt auf [GitHub](https://github.com/midzer/comment-beauty/edit/master/{{ page.path }}).
+Schreibe mir Änderungswünsche per [Mail](https://midzer.de/contact) oder ändere sie direkt auf [GitHub](https://github.com/midzer/commentbeauty/edit/master/{{ page.path }}).
 
 > "Der, der das Böse hasst erschafft noch mehr davon." via [Kati Körner](https://katikoerner.de/toxische-menschen/)
