@@ -1,0 +1,11 @@
+{
+    "name": "CommentBeauty",
+    "lang": "en",
+    "short_name": "CommentBeauty",
+    "description": "Rediscover the beauty of comments with ten points of reference",
+    "theme_color": "#008169",
+    "background_color": "#fffefc",
+    "display": "standalone",
+    "start_url": "/",
+    "orientation": "any"
+}
