@@ -21,6 +21,8 @@ Most people are not in the mood for this situation. Many seek [escape into the p
 
 ## Orientation points
 
+Respectful interaction for a friendly, healthy and harmonious relationship requires a certain sensitivity in the choice of words, especially online in text form, i.e. without gestures and facial expressions. With the following advice on self-reflection in our own online communication, we can replant fallow virtual flowerbeds and, depending on the other person, even allow them to blossom in order to make new contacts.
+
 * Internalize a benevolent attitude
 * Prefer first-person messages
 * Remember the common goal in life: "Peace, joy, cake"

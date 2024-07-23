@@ -23,18 +23,16 @@ Auf diese Situation haben die meisten keine Lust. Viele suchen die [Flucht ins P
 
 Respektvoller Umgang für ein freundliches, gesundes und harmonisches Miteinander erfordert gerade online in Textform, also ohne Gestik und Mimik, ein gewisses Fingerspitzengefühl in der Wortwahl. Mit folgenden Ratschlägen zur Selbstreflexion der eigenen Onlinekommunikation können wir brach liegende virtuelle Blumenbeete neu bepflanzen und je nach Gegenüber sogar aufblühen lassen, um neue Kontakte zu knüpfen.
 
-Respectful interaction for a friendly, healthy and harmonious relationship requires a certain sensitivity in the choice of words, especially online in text form, i.e. without gestures and facial expressions. With the following advice on self-reflection in our own online communication, we can replant fallow virtual flowerbeds and, depending on the other person, even allow them to blossom in order to make new contacts.
-
-* Internalize a benevolent attitude towards the other person
-* Prefer first-person messages
-* Reflect on a unifying element or life motto (for example “Peace, joy, pancakes” from the first [Love Parade](https://en.wikipedia.org/wiki/Love_Parade))
-* Avoid pigeonholing
-* Do not pay unnecessary attention to stressful political issues
-* “Friend or foe?” Discard categorization
-* “Quality instead of quantity” of contributions
-* Do not overemphasize arguments of last resort
-* Don't take yourself too seriously
-* Have the courage, it's the Internet, you can edit it!
+* Wohlwollende Haltung verinnerlichen
+* Ich-Botschaften bevorzugen
+* Erinnern an ein verbindendes Element oder Lebensziel (zum Beispiel "Friede, Freude, Kuchen" der ersten [Loveparade](https://de.wikipedia.org/wiki/Loveparade)
+* Schubladendenken vermeiden
+* politischen Themen nicht unnötig Reichweite schenken
+* "Freund oder Feind?" Einteilung ablegen
+* Qualität statt Quantität der Beiträge
+* Ultima ratio-Argumente nicht überbewerten
+* Selbst nicht zu ernst nehmen
+* Trau Dich, es ist das Internet, Du kannst es editieren!
 
 ## Digitale Spielwiese
 
