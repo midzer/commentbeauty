@@ -49,3 +49,5 @@ Ein von der Gemeinschaft betriebenes WWW lebt von Interaktion. Wie bei vielen an
 * Erweiterung
 
 Schreibe mir Änderungswünsche per [Mail](https://midzer.de/contact) oder ändere sie direkt auf [GitHub](https://github.com/midzer/commentbeauty/edit/master/{{ page.path }}).
+
+> "Live and let live. The end of the game is to feel real good." aus Jean Jacques Perrey - E.V.A. (Fatboy Slim Remix - Radio Edit)

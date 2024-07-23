@@ -49,3 +49,5 @@ A community-driven WWW thrives on interaction. As with many other ethical projec
 * Extension
 
 Write me change requests via [Mail](https://midzer.de/contact) or change them directly on [GitHub](https://github.com/midzer/commentbeauty/edit/master/{{ page.path }}).
+
+> "Live and let live. The end of the game is to feel real good." from Jean Jacques Perrey - E.V.A. (Fatboy Slim Remix - Radio Edit)
