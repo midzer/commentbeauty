@@ -25,14 +25,14 @@ Respectful interaction for a friendly, healthy and harmonious relationship requi
 
 * Internalize a benevolent attitude
 * Prefer first-person messages
-* Remember the common goal in life: "Peace, joy, cake"
+* Remember a unifying element or life goal (for example, “peace, joy, cake” of the first [Love Parade](https://en.wikipedia.org/wiki/Love_Parade))
 * Avoid pigeonholing
-* Do not give unnecessary attention to /pol issues
+* Do not give political topics unnecessary attention
 * Discard "Friend or foe?" categorization
-* Quality instead of quantity
+* Quality instead of quantity of contributions
 * Do not overemphasize arguments of last resort
 * Don't take yourself too seriously
-* Dare, it's the Internet, you can edit it!
+* Have the courage, it's the Internet, you can edit it!
 
 ## Digital playground
 
