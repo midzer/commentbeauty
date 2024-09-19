@@ -25,7 +25,7 @@ Respektvoller Umgang für ein freundliches, gesundes und harmonisches Miteinande
 
 * Wohlwollende Haltung verinnerlichen
 * Ich-Botschaften bevorzugen
-* Erinnern an ein verbindendes Element oder Lebensziel (zum Beispiel "Friede, Freude, Kuchen" der ersten [Loveparade](https://de.wikipedia.org/wiki/Loveparade)
+* Erinnern an ein verbindendes Element oder Lebensziel (zum Beispiel "Friede, Freude, Kuchen" der ersten [Loveparade](https://de.wikipedia.org/wiki/Loveparade))
 * Schubladendenken vermeiden
 * politischen Themen nicht unnötig Reichweite schenken
 * "Freund oder Feind?" Einteilung ablegen
